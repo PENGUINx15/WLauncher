@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ffc1d5a-21b1-407f-90d2-a0d7b590855c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/LauncherUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/StartClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/UI/BackgroundPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/UI/BufferedImageTranscoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/UI/CenterPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/UI/LeftPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/UI/RightPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/UI/SVGLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/gear-fill.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/gear.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/me/penguin/wlauncher/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/quit.svg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="33hstiEmM0r5wwNlCIFOSmkXoiq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Wlauncher [:HelloApplication.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/demch/IdeaProjects/WLauncher/src/main/resources",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\demch\IdeaProjects\WLauncher\src\main\resources" />
+      <recent name="C:\Users\demch\IdeaProjects\WLauncher\src\main\java\me\penguin\wlauncher" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\demch\IdeaProjects\WLauncher\src\main\java\me\penguin\wlauncher" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="WLauncher" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="WLauncher" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ffc1d5a-21b1-407f-90d2-a0d7b590855c" name="Changes" comment="" />
+      <created>1759780854745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759780854745</updated>
+    </task>
+    <servers />
+  </component>
+</project>
