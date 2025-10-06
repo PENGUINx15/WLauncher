@@ -4,36 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ffc1d5a-21b1-407f-90d2-a0d7b590855c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/LauncherUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/StartClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/UI/BackgroundPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/UI/BufferedImageTranscoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/UI/CenterPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/UI/LeftPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/UI/RightPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/UI/SVGLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/gear-fill.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/gear.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/me/penguin/wlauncher/hello-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/quit.svg" afterDir="false" />
+    <list default="true" id="0ffc1d5a-21b1-407f-90d2-a0d7b590855c" name="Changes" comment="1.0">
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/penguin/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/LauncherUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/StartClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/penguin/StartClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/UI/BackgroundPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/penguin/UI/BackgroundPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/UI/BufferedImageTranscoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/UI/CenterPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/penguin/UI/CenterPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/UI/LeftPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/penguin/UI/LeftPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/UI/RightPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/penguin/UI/RightPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/penguin/wlauncher/UI/SVGLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/me/penguin/wlauncher/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/me/penguin/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +33,23 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="WLauncher" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -67,8 +70,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Gradle.Wlauncher [:HelloApplication.main()].executor": "Run",
+    "Gradle.Wlauncher [:Launcher.main()].executor": "Run",
+    "Gradle.Wlauncher.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/demch/IdeaProjects/WLauncher/src/main/resources",
     "settings.editor.selected.configurable": "vcs.Git"
@@ -107,6 +112,19 @@
       <option name="presentableId" value="Default" />
       <updated>1759780854745</updated>
     </task>
+    <task id="LOCAL-00001" summary="1.0">
+      <option name="closed" value="true" />
+      <created>1759781319673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759781319673</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0" />
   </component>
 </project>

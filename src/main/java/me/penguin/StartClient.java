@@ -1,4 +1,4 @@
-package me.penguin.wlauncher;
+package me.penguin;
 
 import java.awt.event.ActionListener;
 import java.io.BufferedReader;
